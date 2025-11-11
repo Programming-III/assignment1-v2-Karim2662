@@ -6,6 +6,8 @@ using namespace std;
 
 //#write Person class here
 
+
+using namespace std;
 class Person{
 protected:
     string name;
@@ -18,8 +20,7 @@ public:
     int getId();
     string getName();
 };
-#endif 
-
+#endif
 
 
 
