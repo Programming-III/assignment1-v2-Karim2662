@@ -13,12 +13,13 @@ public:
     Instructor(string department, int experienceYears);
     Instructor();
     void display();
+
+    ~Instructor();
+
     string getDepartment();
     int getExperinceYears();
 };
 #endif
-
-
 
 
 
