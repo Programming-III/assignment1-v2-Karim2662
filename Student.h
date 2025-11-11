@@ -5,8 +5,6 @@
 #include <string>
 #using namespace std;
 //#write student class here
-#ifndef ASSIGMENT01_STUDENT_H
-#define ASSIGMENT01_STUDENT_H
 class Student {
 private:
     int yearLevel;
