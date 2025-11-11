@@ -23,11 +23,13 @@ public:
     void displayCourseInfo();
     string getCourseCode();
     string getcourseName();
+
+    ~course();
+
     int getMaxStudents();
     int getCurrentStudents();
 };
 #endif
-
 
 
 
