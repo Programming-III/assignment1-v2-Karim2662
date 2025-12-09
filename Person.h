@@ -19,6 +19,7 @@ public:
     ~Person();
     int getId();
     string getName();
+void roleInfo();
 };
 #endif
 
